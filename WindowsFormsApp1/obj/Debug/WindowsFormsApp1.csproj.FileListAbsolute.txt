@@ -1,0 +1,13 @@
+D:\project\си шарп\snmp\test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\project\си шарп\snmp\test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\project\си шарп\snmp\test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\project\си шарп\snmp\test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+D:\project\си шарп\snmp\test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\project\си шарп\snmp\test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\project\си шарп\snmp\test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+D:\project\си шарп\snmp\test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\project\си шарп\snmp\test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\project\си шарп\snmp\test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\project\си шарп\snmp\test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SnmpSharpNet.dll
+D:\project\си шарп\snmp\test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SnmpSharpNet.pdb
+D:\project\си шарп\snmp\test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SnmpSharpNet.xml
